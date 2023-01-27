@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kamien">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAAAAAAAAAEAAAAIAAAgAACSAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Kamien.cs</FileName>
+      <NewMemberFileName>Assets\Scripts\kamien.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dodawanie">
+    <Position X="14.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Dodawanie.cs</FileName>
+      <NewMemberFileName>Assets\Scripts\dodawanie.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoJaskini">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DoJaskini.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zloto">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAUAAAA=</HashCode>
+      <FileName>Assets\Scripts\Zloto.cs</FileName>
+      <NewMemberFileName>Assets\Scripts\zloto.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kilofy">
+    <Position X="6.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Kilofy.cs</FileName>
+      <NewMemberFileName>Assets\Scripts\kilofy.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainButtonClick">
+    <Position X="12.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAYAABAA=</HashCode>
+      <FileName>Assets\Scripts\MainButtonClick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Managergry">
+    <Position X="14.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Managergry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu.cs</FileName>
+      <NewMemberFileName>Assets\Scripts\menu.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprzedaj">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAABAAAAAAAAAABAAAAAIAABAA=</HashCode>
+      <FileName>Assets\Scripts\Sprzedaj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zmianascen">
+    <Position X="14.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Zmianascen.cs</FileName>
+      <NewMemberFileName>Assets\Scripts\zmianascen.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zmiennakilof">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAABAAAAIAAAAAAAEAAQQAABAA=</HashCode>
+      <FileName>Assets\Scripts\Zmiennakilof.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
